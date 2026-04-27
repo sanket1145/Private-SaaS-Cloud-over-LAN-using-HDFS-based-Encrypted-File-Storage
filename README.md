@@ -1,0 +1,2 @@
+# Private-SaaS-Cloud-over-LAN-using-HDFS-based-Encrypted-File-Storage
+This project presents the design and implementation of a Private Cloud for SaaS over a Local Area Network (LAN) using an HDFS-like distributed storage approach. The system aims to provide a secure, efficient, and cost-effective alternative to public cloud storage by enabling organizations to store and manage data within their local infrastructure.
